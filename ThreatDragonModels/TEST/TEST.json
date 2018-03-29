@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "TEST",
+    "owner": "TESTUSER",
+    "description": "Test infrastructure"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "TESTREVIEWER"
+  }
+}
